@@ -5,6 +5,7 @@ import Resume from './resume'
 import About from './contact'
 import Greeting from './greeting'
 import Contact from './email'
+import '@fortawesome/fontawesome-free/css/all.min.css';
 
 function App() {
   return (
